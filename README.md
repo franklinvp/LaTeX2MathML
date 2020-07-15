@@ -34,4 +34,6 @@ The page will use now the script in this diretory.
  * Check **Compact** to get the MathML in a single line. 
  * The two buttons **Lilian's cheat sheet 1** and **Lilian's cheat sheet 2** display a cheat sheet with some basics of LaTeX. To close them click on the cheat sheet. If you need the cheat sheets to look bigger double-click the buttons instead.
  * The last equation that you typed gets saved in the local storage of your browser. So, if you re-open or refresh the page it will still be there.
+ * One can either select the MathML and copy it, or just press the button **Copy MathML**.
+ * The MathML can then be pasted in the DITA file. If using Oxygen, it must be pasted in *Text* mode, not in *Author* mode.
 
