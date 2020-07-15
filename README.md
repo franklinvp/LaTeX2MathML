@@ -14,7 +14,7 @@ So, it requires internet connection.
 
 ## To use offline
 
-If you prefer all the work to be done locally run
+If you prefer all the work to be done locally, run
 
 ```
 git checkout offline
