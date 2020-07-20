@@ -37,3 +37,6 @@ The page will use now the script in this diretory.
  * One can either select the MathML and copy it, or just press the button **Copy MathML**.
  * The MathML can then be pasted in the DITA file. If using Oxygen, it must be pasted in *Text* mode, not in *Author* mode.
 
+## Screeshot
+
+![Screenshot](./screenshot.png)
